@@ -5,15 +5,15 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ApiAuthController {
-  @GetMapping("/sign-up")
-  public String signUp() {
-    
-    return "done.";
-  }
-  
-  @GetMapping("/login")
-  public String login() {
-    
-    return "done.";
-  }
+//  @GetMapping("/sign-up")
+//  public String signUp() {
+//
+//    return "done.";
+//  }
+//
+//  @GetMapping("/login")
+//  public String login() {
+//
+//    return "done.";
+//  }
 }
